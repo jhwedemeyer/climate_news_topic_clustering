@@ -1,0 +1,13 @@
+# Output of cluster_news.py
+result.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
